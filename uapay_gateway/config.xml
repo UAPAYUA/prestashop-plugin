@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>Uapay</name>
+    <displayName><![CDATA[Uapay]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[Прием платежей с помощью кредитной карты быстро и безопасно с Uapay 1.0.]]></description>
+    <author><![CDATA[uapay]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Вы уверенны что хотите удалить все настройки?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
