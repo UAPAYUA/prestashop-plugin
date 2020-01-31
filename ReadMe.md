@@ -1,4 +1,4 @@
-# Плагин для CMS WordPress + WooCommerce
+# Плагин для PrestaShop
 
 Тестировался плагин на PrestaShop v.1.7.2.4
 ### Установка
